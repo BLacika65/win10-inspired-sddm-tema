@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="suspend_primary_one_new.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   width="32"
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#4a4a4a"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="14.237288"
+     inkscape:cy="14.271186"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <style
+       id="current-color-scheme-753"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <style
+       type="text/css"
+       id="current-color-scheme-75">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    <style
+       id="current-color-scheme-7"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  </defs>
+  <path
+     style="display:inline;fill:#ffffff;stroke-width:0.0677966"
+     d="M 15.042894,25.931352 C 11.948614,25.643509 9.2814718,24.049022 7.5363413,21.44374 7.1556564,20.87542 7.0994037,20.608257 7.3186485,20.409843 c 0.1481391,-0.134063 0.2576015,-0.128796 1.291521,0.06215 0.9518767,0.175798 2.6897715,0.116607 3.6271185,-0.123535 0.372881,-0.09553 0.845763,-0.238263 1.050848,-0.317185 3.032884,-1.167129 5.20612,-3.836542 5.73306,-7.04199 0.09022,-0.548824 0.107462,-0.940534 0.07759,-1.762712 C 19.044433,9.7305971 18.772362,8.6835323 18.090883,7.3476566 17.86835,6.9114353 17.837875,6.8030119 17.895324,6.6519081 c 0.132123,-0.347509 0.343536,-0.368137 1.111643,-0.1084653 3.395731,1.1479853 5.863828,3.9301432 6.633569,7.4776822 0.216692,0.998678 0.216692,2.959072 0,3.95775 -0.724621,3.339593 -3.009538,6.071673 -6.081214,7.271322 -1.45518,0.568324 -3.085752,0.814242 -4.516428,0.681155 z m 2.50856,-1.051911 c 3.278366,-0.6255 5.992647,-3.050236 6.949492,-6.20816 0.514937,-1.699467 0.514937,-3.643095 0,-5.342562 -0.69629,-2.298001 -2.32792,-4.2430994 -4.491568,-5.3544901 -0.371664,-0.1909107 -0.69087,-0.3471103 -0.709345,-0.3471103 -0.01848,0 0.06969,0.2889654 0.195918,0.6421453 0.41344,1.1567533 0.528917,1.8727561 0.530622,3.2900581 0.0016,1.356418 -0.09761,2.020203 -0.472368,3.159597 -0.962125,2.925162 -3.422562,5.356907 -6.409705,6.334961 -1.082041,0.354283 -2.089699,0.491444 -3.3608738,0.457478 l -1.0977297,-0.02933 0.2009815,0.25376 c 0.2946649,0.372045 1.125041,1.169056 1.5538,1.491367 1.17597,0.884014 2.677562,1.500119 4.20339,1.724654 0.778807,0.114607 2.099747,0.08173 2.907386,-0.07237 z"
+     id="path1" />
+  <text
+     xml:space="preserve"
+     style="font-size:13.1551px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:1.09626"
+     x="8.1390877"
+     y="17.094151"
+     id="text3"
+     transform="scale(1.0962553,0.91219629)"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="8.1390877"
+       y="17.094151"
+       style="stroke-width:1.09626">z</tspan></text>
+</svg>
