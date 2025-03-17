@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Windows10-klone
+Description=Windows 10 klone
+Author=pcegyszeregy
+Copyright=(c) 2025, pcegyszeregy
+License=gpl3.0
+Type=sddm-theme
+Version=0.0.1
+Website=https://pcegyszeregy.hu
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Windows10-klone
+Theme-API=2.0
